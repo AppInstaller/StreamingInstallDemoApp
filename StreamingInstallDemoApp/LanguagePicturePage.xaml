@@ -1,0 +1,14 @@
+﻿<Page
+    x:Class="StreamingInstallDemoApp.LanguagePicturePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StreamingInstallDemoApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="White" Padding="450, 100">
+        <Button x:Name="Back_Button" Content="Back" Width="100" Height="45" HorizontalAlignment="Left" Margin="-450,-100,0,0" VerticalAlignment="Top" FontFamily="Segoe UI" Foreground="White" FontSize="24" Click="Back_Button_Click"/>
+        <Grid x:Name="PicturePageGrid" Loaded="PicturePageGrid_Loaded"/>
+    </Grid>
+</Page>

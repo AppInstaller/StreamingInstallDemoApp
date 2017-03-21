@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentGroupMap xmlns="http://schemas.microsoft.com/appx/2016/sourcecontentgroupmap" xmlns:s="http://schemas.microsoft.com/appx/2016/sourcecontentgroupmap" >
+  <Required>
+    <ContentGroup Name="Required">
+      <File Name="*"/>
+      <File Name="WinMetadata\*"/>
+      <File Name="Properties\*"/>
+      <File Name="Assets\*scale*"/>
+      <File Name="Assets\*Logo*"/>
+      <File Name="Assets\Background.png"/>
+      <File Name="Assets\Required.png"/>
+    </ContentGroup>
+  </Required>
+  <Automatic>
+    <ContentGroup Name="ItemPack1">
+      <File Name="Assets\ItemPack1\*"/>
+    </ContentGroup>
+    <ContentGroup Name="ItemPack2">
+      <File Name="Assets\ItemPack2\*"/>
+    </ContentGroup>
+    <ContentGroup Name="Level1">
+      <File Name="Assets\Level1\*"/>
+    </ContentGroup>
+    <ContentGroup Name="Level2">
+      <File Name="Assets\Level2\*"/>
+    </ContentGroup>
+    <ContentGroup Name="Level3">
+      <File Name="Assets\Level3\*"/>
+    </ContentGroup>
+
+    <ContentGroup Name="FrenchPack1">
+      <File Name="Assets\FrenchPack1.png"/>
+      <File Name="Assets\FrenchPack1Dummy.txt"/>
+    </ContentGroup>
+    <ContentGroup Name="FrenchPack2">
+      <File Name="Assets\FrenchPack2.png"/>
+      <File Name="Assets\FrenchPack2Dummy.txt"/>
+    </ContentGroup>
+  </Automatic>
+</ContentGroupMap>

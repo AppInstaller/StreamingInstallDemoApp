@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ContentGroupMap xmlns="http://schemas.microsoft.com/appx/2016/contentgroupmap" xmlns:s="http://schemas.microsoft.com/appx/2016/contentgroupmap">
+  <Automatic>
+    <ContentGroup Name="ItemPack1">
+      <File Name="Assets\ItemPack1\ItemPack1.png"/>
+      <File Name="Assets\ItemPack1\ItemPack1Dummy.txt"/>
+    </ContentGroup>
+    <ContentGroup Name="ItemPack2">
+      <File Name="Assets\ItemPack2\ItemPack2.png"/>
+      <File Name="Assets\ItemPack2\ItemPack2Dummy.txt"/>
+    </ContentGroup>
+    <ContentGroup Name="Level1">
+      <File Name="Assets\Level1\Level1.png"/>
+      <File Name="Assets\Level1\Level1Dummy.txt"/>
+    </ContentGroup>
+    <ContentGroup Name="Level2">
+      <File Name="Assets\Level2\Level2.png"/>
+      <File Name="Assets\Level2\Level2Dummy.txt"/>
+    </ContentGroup>
+    <ContentGroup Name="Level3">
+      <File Name="Assets\Level3\Level3.png"/>
+      <File Name="Assets\Level3\Level3Dummy.txt"/>
+    </ContentGroup>
+    <ContentGroup Name="FrenchPack1">
+      <File Name="Assets\fr-fr\FrenchPack1.png"/>
+      <File Name="Assets\fr-fr\FrenchPack1Dummy.txt"/>
+    </ContentGroup>
+    <ContentGroup Name="FrenchPack2">
+      <File Name="Assets\fr-fr\FrenchPack2.png"/>
+      <File Name="Assets\fr-fr\FrenchPack2Dummy.txt"/>
+    </ContentGroup>
+  </Automatic>
+</ContentGroupMap>
