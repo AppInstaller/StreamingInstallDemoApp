@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="96c3ec89-c3ad-4c5f-9ab9-b225c9e2f946" Publisher="CN=liandy" Version="1.0.3.0" />
+  <Identity Name="96c3ec89-c3ad-4c5f-9ab9-b225c9e2f946" Publisher="CN=liandy" Version="1.0.6.0" />
   <mp:PhoneIdentity PhoneProductId="96c3ec89-c3ad-4c5f-9ab9-b225c9e2f946" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>StreamingInstallDemoApp</DisplayName>

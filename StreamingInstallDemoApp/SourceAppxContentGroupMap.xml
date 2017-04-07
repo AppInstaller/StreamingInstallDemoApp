@@ -5,7 +5,7 @@
       <File Name="*"/>
       <File Name="WinMetadata\*"/>
       <File Name="Properties\*"/>
-      <File Name="Assets\*scale*"/>
+      <File Name="Assets\*SplashScreen*"/>
       <File Name="Assets\*Logo*"/>
       <File Name="Assets\Background.png"/>
       <File Name="Assets\Required.png"/>
@@ -27,7 +27,6 @@
     <ContentGroup Name="Level3">
       <File Name="Assets\Level3\*"/>
     </ContentGroup>
-
     <ContentGroup Name="FrenchPack1">
       <File Name="Assets\FrenchPack1.png"/>
       <File Name="Assets\FrenchPack1Dummy.txt"/>
